@@ -1,0 +1,4 @@
+- Update README to explain the repo fully.
+- Add relevant Actions
+- Hydra base config plus extending the configs
+- Confirm we need every folder we currently have
