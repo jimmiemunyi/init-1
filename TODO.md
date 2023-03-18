@@ -2,3 +2,4 @@
 - Add relevant Actions
 - Hydra base config plus extending the configs
 - Confirm we need every folder we currently have
+- Write docs on how to use Repo
